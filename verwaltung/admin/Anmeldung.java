@@ -27,9 +27,9 @@ public class Anmeldung extends JFrame
   private JPasswordField jpwf;
   private JTextField     tfUser;
 
-  private final String   USERNAME = "fthurm";
-  private final String   PASSWORD = "r00t";
-  private final String   SALT     = "Ozcfaf/nfsgnv";
+  private final String   USERNAME = "user";
+  private final String   PASSWORD = "password";
+  private final String   SALT     = "salt";
 
   public Anmeldung( Verwaltung verwaltung )
   {
